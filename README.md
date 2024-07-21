@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siddev09, An Aspiring blockchain developer🪙
+- 👋 Hi, I’m @Siddharth, An Aspiring blockchain developer🪙
 
 
 <!---
