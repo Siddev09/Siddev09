@@ -31,7 +31,7 @@
 
 | Protocol          | Vulnerabilities Found | Critical | Platform  | Reports                                                                                |
 | ----------------- | --------------------- | ------   | --------- | -------------------------------------------------------------------------------------- |
-| Sereph Contract   | 4                     |  _       | RemedyXyz | [Report](https://github.com/Siddev09/Audit_Report_Portfolio/blob/main/Remedy_Bug_Bounty_3%20-%20Audit.pdf)                                                                                      |
+| Sereph Contract   | 4                     |  _       | RemedyXyz |                                                                                        |
 
 
 
