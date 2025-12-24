@@ -52,6 +52,4 @@
 ## 🤝 Let's Connect
 
 I'm always open to collaborate on security reviews, protocol audits, or discussing blockchain security.
-
-
-- 🐦 **X:** [@Deno](https://x.com/@SP_SIDDHARTH_)  
+ 
