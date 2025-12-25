@@ -32,7 +32,7 @@
 | Protocol          | Vulnerabilities Found | Critical | Platform  | Reports                                                                                |
 | ----------------- | --------------------- | ------   | --------- | -------------------------------------------------------------------------------------- |
 | Sereph Contract   | 4                     |  _       | RemedyXyz |                                                                                        |
-
+| TradeBois         | 1                     |  _       | hackenPro.|                                                                                        |
 
 
 
