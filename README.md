@@ -1,7 +1,7 @@
 # Hey 👋 I'm Siddharth 
 `Blockchain Security Researcher`
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Security+Researcher+%F0%9F%92%BB;Audited+10,000%2B+nSLOC;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Security+Researcher+%F0%9F%92%BB;Audited+6,000%2B+nSLOC;" alt="Typing SVG" />
 </p>
 
 ## 🏆 Achievements
