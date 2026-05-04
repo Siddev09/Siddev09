@@ -6,7 +6,7 @@
 
 ## 🏆 Achievements
 - **Over 1+ Year of Experience** in Smart Contract Auditing and Blockchain Security
-- **Reviewed and Audited 10,000+ Lines of Solidity Code** across various DeFi and blockchain protocols
+- **Reviewed and Audited 6000+ Lines of Solidity Code** across various DeFi and blockchain protocols
 - **Open for Freelance, Full-Time, and Private Audit Collaborations**
 
 ## 💻 Languages & Frameworks
