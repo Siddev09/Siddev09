@@ -15,7 +15,6 @@
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" alt="Rust" /></a>
 </p>
 
 ### Blockchain Development Tools
