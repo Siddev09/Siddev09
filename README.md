@@ -5,7 +5,7 @@
 </p>
 
 ## 🏆 Achievements
-- **Over 1+ Year of Professional Experience** in Smart Contract Auditing and Blockchain Security
+- **Over 1+ Year of Experience** in Smart Contract Auditing and Blockchain Security
 - **Reviewed and Audited 10,000+ Lines of Solidity Code** across various DeFi and blockchain protocols
 - **Open for Freelance, Full-Time, and Private Audit Collaborations**
 
@@ -31,8 +31,8 @@
 | Protocol          | Vulnerabilities Found | Critical | Platform  | Reports                                                                                |
 | ----------------- | --------------------- | ------   | --------- | -------------------------------------------------------------------------------------- |
 | Sereph Contract   | 4                     |  _       | RemedyXyz |                                                                                        |
-|          | 1                     |  _       | hackenPro.|                                                                                        |
-|          | 2                     |  1       | hackenPro.|                                                                                        |
+|  Rain             |      | 1                     |  _       | hackenPro.|                                                                                        |
+|   TradeBois       | 2                     |  1       | hackenPro.|                                                                                        |
 
 
 ## 🔍 Expertise
@@ -45,8 +45,8 @@
 ## 🛠️ Technical Skills
 
 - **Static Analysis Tools:** Slither, Aderyn  
-- **EVM Understanding:** Bytecode analysis, memory layout, storage optimization  
-- **Security Frameworks:** Foundry, Hardhat, Truffle  
+- **EVM Understanding:** Gas optimization  
+- **Security Frameworks:** Foundry   
 
 ## 🤝 Let's Connect
 
