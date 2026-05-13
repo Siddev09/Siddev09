@@ -29,9 +29,9 @@
 
 | Protocol          | Vulnerabilities Found | Critical | Platform  | Reports                                                                                |
 | ----------------- | --------------------- | ------   | --------- | -------------------------------------------------------------------------------------- |
-| Sereph Contract   | 4                     |  _       | RemedyXyz |                                                                                        |
-|  Rain             |        2              |  1       | hackenPro.|                                                                                        |
-|   TradeBois       | 1                     |  _       | hackenPro.|                                                                                        |
+| Sereph Contract   | 4                     |  _       | Remedy    |                                                                                        |
+| Rain              |        2              |  1       | hacken    |                                                                                        |
+| TradeBois         | 1                     |  _       | hacken    |                                                                                        |
 
 
 ## 🔍 Expertise
