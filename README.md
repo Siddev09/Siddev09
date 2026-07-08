@@ -27,11 +27,15 @@
 
 ## 📊 Audit Portfolio
 
-| Protocol          | Vulnerabilities Found | Critical | Platform  | Reports                                                                                |
-| ----------------- | --------------------- | ------   | --------- | -------------------------------------------------------------------------------------- |
-| Sereph Contract   | 4                     |  _       | Remedy    |                                                                                        |
-| Rain              |        2              |  1       | hacken    |                                                                                        |
-| TradeBois         | 1                     |  _       | hacken    |                                                                                        |
+| Protocol          | Vulnerabilities Found | Reports                                                                                |
+| ----------------- | --------------------- | -------------------------------------------------------------------------------------- |
+| Sereph Contract   | 4                     |                                                                                        |
+| Rain              | 2                     |                                                                                        |
+| TradeBois         | 1                     |                                                                                        |
+| Ember EVM         | 1                     |                                                                                        |
+| Layer 3           | 1                     |                                                                                        |
+| 0xMarkets         | 1                     |                                                                                        |
+
 
 
 ## 🔍 Expertise
